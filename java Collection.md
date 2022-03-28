@@ -6,5 +6,5 @@ Collections是一个集合工具类，里面有许多静态方法对集合进行
 
 #### 2、List、Set和Map的区别
 
-![](.\img\v2-065a248aa026cb73978ad6aec1b4237f_720w.jpg)
+![tt](https://pic4.zhimg.com/v2-065a248aa026cb73978ad6aec1b4237f_r.jpg)
 
